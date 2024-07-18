@@ -1,7 +1,6 @@
 body{
     margin: 10%;
     background-color: blue;
-    background-image: -moz-element();
 }
 h1{
     font-style: italic ;
